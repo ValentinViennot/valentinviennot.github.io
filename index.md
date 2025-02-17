@@ -19,7 +19,7 @@ If you're searching for a partner who turns the intricate into the accessible, i
 
 ## Bio
 
-[See my full resume on LinkedIn]({{ site.linkedin }})
+<!-- [See my full resume on LinkedIn]({{ site.linkedin }}) -->
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
